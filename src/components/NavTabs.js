@@ -11,8 +11,12 @@ function NavTabs() {
     <ul className="nav nav-tabs">
       <li className="nav-item">
         <Link
-          to="/"
-          className={location.pathname === "/" ? "nav-link active" : "nav-link"}
+          to="/react-portfolio"
+          className={
+            location.pathname === "/react-portfolio"
+              ? "nav-link active"
+              : "nav-link"
+          }
         >
           Home
         </Link>

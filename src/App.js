@@ -12,7 +12,7 @@ function App() {
     <Router>
       <div className="nav-wrapper">
         <NavTabs />
-        <Route exact path="/" component={Home} />
+        <Route exact path="/react-portfolio" component={Home} />
         <Route exact path="/about" component={About} />
         <Route exact path="/blog" component={Portfolio} />
         <Route path="/contact" component={Contact} />

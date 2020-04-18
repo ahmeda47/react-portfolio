@@ -11,7 +11,7 @@ function Home() {
           <div class="about-details">
             <div class="about-heading">
               <h1>hello, world.</h1>
-              <img src={pic} class="img-border" />
+              <img src={pic} alt="me" class="img-border" />
             </div>
             <div class="social-media">
               <h1>My name is Abdiwahab and I'm a full stack developer.</h1>
