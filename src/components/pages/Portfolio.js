@@ -24,8 +24,7 @@ function Portfolio() {
             <h6>Quiz Game</h6>
             <h1>Real or Fake?</h1>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem
-              ipsum, dolor sit amet consectetur adipisicing elit.
+              Spot the fake news headline.
               <a href="#" class="cta">
                 {" "}
                 View Details
@@ -42,60 +41,9 @@ function Portfolio() {
             <h6>Chat App</h6>
             <h1>DevIt</h1>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem
-              ipsum, dolor sit amet consectetur adipisicing elit.
+              Interact with other developers.
               <a href="https://salty-stream-26516.herokuapp.com/" class="cta">
-                View Details
-              </a>
-            </p>
-          </div>
-        </div>
-
-        <div class="portfolio-item">
-          <div class="portfolio-img">
-            <img src={door} />
-          </div>
-          <div class="portfolio-description">
-            <h6>Utilities</h6>
-            <h1>Password Generator</h1>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem
-              ipsum, dolor sit amet consectetur adipisicing elit.
-              <a href="https://ahmeda47.github.io/password-hw/" class="cta">
-                View Details
-              </a>
-            </p>
-          </div>
-        </div>
-
-        <div class="portfolio-item">
-          <div class="portfolio-img">
-            <img src={notes} />
-          </div>
-          <div class="portfolio-description">
-            <h6>CRUD app</h6>
-            <h1>Note Taker</h1>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem
-              ipsum, dolor sit amet consectetur adipisicing elit.
-              <a href="https://note-taker1234.herokuapp.com/" class="cta">
-                View Details
-              </a>
-            </p>
-          </div>
-        </div>
-
-        <div class="portfolio-item">
-          <div class="portfolio-img">
-            <img src={burger} />
-          </div>
-          <div class="portfolio-description">
-            <h6>CRUD app</h6>
-            <h1>Burger Joint</h1>
-            <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem
-              ipsum, dolor sit amet consectetur adipisicing elit.
-              <a href="http://glacial-shore-42246.herokuapp.com/" class="cta">
+                {" "}
                 View Details
               </a>
             </p>
@@ -107,12 +55,11 @@ function Portfolio() {
             <img src={people} />
           </div>
           <div class="portfolio-description">
-            <h6>MySQL Database</h6>
-            <h1>Employee Tracker</h1>
+            <h6>Job listing</h6>
+            <h1>E-Centrix</h1>
             <p>
-              Lorem ipsum, dolor sit amet consectetur adipisicing elit. Lorem
-              ipsum, dolor sit amet consectetur adipisicing elit.
-              <a href="#" class="cta">
+              Create an account and apply to jobs.
+              <a href="https://e-centrix.herokuapp.com/" class="cta">
                 {" "}
                 View Details
               </a>

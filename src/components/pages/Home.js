@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../img/resume.pdf";
+import resume from "../../img/resume_2.pdf";
 import pic from "../../img/me.png";
 
 function Home() {
@@ -14,7 +14,7 @@ function Home() {
               <img src={pic} alt="me" class="img-border" />
             </div>
             <div class="social-media">
-              <h1>My name is Abdiwahab and I'm a full stack developer.</h1>
+              <h1>My name is Abdi and I'm a full stack developer.</h1>
             </div>
             <div class="social-media">
               {/* <!-- your links (github and linkedin--> */}
