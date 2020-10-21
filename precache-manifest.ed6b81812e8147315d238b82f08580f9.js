@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "aaa2fb07fe5acf3c72a5c5c91a007a3e",
+    "revision": "6b08aec11e988fa5e0f6d18f7a34834f",
     "url": "/react-portfolio/index.html"
   },
   {
-    "revision": "40eb8b6e1a8cb60aa9a3",
+    "revision": "5f73d27af83662391a6f",
     "url": "/react-portfolio/static/css/main.7b685dea.chunk.css"
   },
   {
-    "revision": "aab47038b7193a76cff9",
-    "url": "/react-portfolio/static/js/2.22bdf098.chunk.js"
+    "revision": "84f700781cdab0dacdfb",
+    "url": "/react-portfolio/static/js/2.ebfbb7df.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/react-portfolio/static/js/2.22bdf098.chunk.js.LICENSE.txt"
+    "url": "/react-portfolio/static/js/2.ebfbb7df.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "40eb8b6e1a8cb60aa9a3",
-    "url": "/react-portfolio/static/js/main.9e2d283f.chunk.js"
+    "revision": "5f73d27af83662391a6f",
+    "url": "/react-portfolio/static/js/main.3660a3d7.chunk.js"
   },
   {
     "revision": "26950ce1f34a1b315732",
@@ -28,16 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/71287.ffeb2184.jpg"
   },
   {
-    "revision": "5a664f35a07fff73f4d3d6937ee994d3",
-    "url": "/react-portfolio/static/media/burger.5a664f35.png"
-  },
-  {
     "revision": "d8a1229e3a62750dcc40f9b9d48f007d",
     "url": "/react-portfolio/static/media/chat.d8a1229e.png"
-  },
-  {
-    "revision": "edbc895cf1a7f5e351efbd2146dd6dbc",
-    "url": "/react-portfolio/static/media/door.edbc895c.jpg"
   },
   {
     "revision": "820465bdaa6b11d769ee4551422164a8",
@@ -52,7 +44,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-portfolio/static/media/reading.8611dbf8.jpg"
   },
   {
-    "revision": "5ef30bf9c853716a1765b18764f715e7",
-    "url": "/react-portfolio/static/media/resume_2.5ef30bf9.pdf"
+    "revision": "387ccaa718d73d4594cd478963059f91",
+    "url": "/react-portfolio/static/media/resume_.387ccaa7.pdf"
   }
 ]);
