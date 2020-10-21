@@ -1,8 +1,5 @@
 import React from "react";
 import chat from "../../img/chat.png";
-import burger from "../../img/burger.png";
-import door from "../../img/door.jpg";
-import notes from "../../img/notes.jpg";
 import people from "../../img/people.png";
 import reading from "../../img/reading.jpg";
 
