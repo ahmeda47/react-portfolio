@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../img/resume_.pdf";
+import resume from "../../img/resume.pdf";
 import pic from "../../img/me.png";
 
 function Home() {
@@ -7,7 +7,6 @@ function Home() {
     <section class="about" id="about">
       <div class="container">
         <div class="profile-img">
-          {/* <!-- <img src="./images/Screen Shot 2019-10-27 at 8.09.53 PM.png" alt=""> --> */}
           <div class="about-details">
             <div class="about-heading">
               <h1>hello, world.</h1>
@@ -17,7 +16,6 @@ function Home() {
               <h1>My name is Abdi and I'm a full stack developer.</h1>
             </div>
             <div class="social-media">
-              {/* <!-- your links (github and linkedin--> */}
               <a
                 href="https://github.com/ahmeda47?tab=repositories"
                 class="icon-link"
