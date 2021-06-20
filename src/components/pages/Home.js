@@ -1,5 +1,5 @@
 import React from "react";
-import resume from "../../img/resume.pdf";
+import resume from "../../img/res_.pdf";
 import pic from "../../img/me.png";
 
 function Home() {
@@ -23,7 +23,7 @@ function Home() {
                 <i class="fab fa-github" />
               </a>
               <a
-                href="https://www.linkedin.com/in/abdiwahab-ahmed-32423519a/"
+                href="https://www.linkedin.com/in/abdiwahab-ahmed"
                 class="icon-link"
               >
                 <i class="fab fa-linkedin-in" />
@@ -36,7 +36,7 @@ function Home() {
                 download
               >
                 <button class="btn submit-btn mt-2 mb-2">
-                  download resume
+                  resume
                 </button>
               </a>
             </div>
